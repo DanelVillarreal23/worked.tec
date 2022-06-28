@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.altura{
+  padding: 100px 0;
+}
+
+.logotipo{
+  width: 100px; 
+  pading 400px 0;
+}
+
+.logos-header{
+  width: 40px;
+  margin: 10px 60px;
+}
+
+.shoes{
+  width: 200px;
+  padding: 0px;
+}
+
+.Video{
+  background-image: url("images/shoes6.jpg");
+  padding: 200px;
+  position: relative;
+  text-align: center;
+}
+
+.Video .play {
+width: 80px;
+height: 80px;
+position: relative;
+}
